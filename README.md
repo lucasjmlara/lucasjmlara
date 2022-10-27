@@ -25,7 +25,7 @@
 <div align="center"><a href="https://github.com/lucasjmlara"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjmlara&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjmlara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 
 ## 🐍 My Snake
-<div align="center">![Snake animation](https://github.com/seu-usuário-aqui/lucasjmlara/blob/output/github-contribution-grid-snake.svg)</div>
+<div align="center"><img alt="Snake Animation" src="https://github.com/lucasjmlara/lucasjmlara/blob/output/github-contribution-grid-snake.svg"/></div>
 
 <!--
 **lucasjmlara/lucasjmlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
